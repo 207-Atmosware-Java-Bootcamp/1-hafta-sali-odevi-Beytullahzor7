@@ -1,0 +1,5 @@
+semantic vs non-semantic
+xhtml ile html5 arasındaki farklar
+table colspan vs rowspan
+
+
